@@ -13,3 +13,5 @@
     As you scroll down the page the nav bar changes to adapt to user experience.
 
     Page dynamically reloads big banner for page on ever reload.
+    
+    ![Demo] (https://user-images.githubusercontent.com/69319302/132558557-5cff02ed-c0d6-4ce6-a9f8-80d4745d4339.gif)
